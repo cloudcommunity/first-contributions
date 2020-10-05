@@ -1,5 +1,6 @@
 # Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
+- [Rishabh Jain](https://github.com/rishabh-jain424)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - Andrew Scott
